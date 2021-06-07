@@ -1,16 +1,17 @@
-### Hi there 👋
+# What is this?
+no idea, honestly. Hi, i guess?
 
-<!--
-**Alicje/Alicje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## hello!
+hii!
 
-Here are some ideas to get you started:
+## anything to say?
+not really. wait, hang on. *Trans rights!*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## how long will this go on?
+how long will you be reading this?
+
+## Is this like a FAQ or something?
+no. Wait, is it? 
+
+## bye.
+bye!
